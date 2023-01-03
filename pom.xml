@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>abcdflyspace</finalName>
+		<finalName>tesla-webap</finalName>
 		
 		<plugins>
 			<plugin>
