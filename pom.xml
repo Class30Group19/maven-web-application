@@ -95,12 +95,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.201.98.22:8081/gbadamosisaheed-nexus/repository/jmsrepo-snapshot/</url>
+	      <url>http://172.31.68.217:8081/gbadamosisaheed-nexus/repository/jmsrepo-releases/</url>
 	    </repository>
+		
             <snapshotRepository>
+		    
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.201.98.22:8081/gbadamosisaheed-nexus/repository/jmsrepo-snapshot/</url>
+	      <url>http://172.31.68.217:8081/gbadamosisaheed-nexus/repository/jmsrepo-snapshot/</url>
 	    </snapshotRepository>
 		    
 	</distributionManagement>
